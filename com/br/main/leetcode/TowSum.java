@@ -1,3 +1,4 @@
+package com.br.main.leetcode;
 class Solution {
 
     public static void main(String[] args) {

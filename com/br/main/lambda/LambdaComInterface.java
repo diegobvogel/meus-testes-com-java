@@ -1,3 +1,4 @@
+package com.br.main.lambda;
 public class LambdaComInterface {
 
     public interface InterfaceQaulquer {

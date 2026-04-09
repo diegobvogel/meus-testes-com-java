@@ -1,3 +1,4 @@
+package com.br.main.streams;
 import java.util.stream.Collectors;
 
 import java.util.*;
